@@ -2,7 +2,7 @@
 `Project Manager | Data Science | Software Engineer`
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=235&lines=Unlock+Yourself+With+Knowledge" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Unlock+Yourself+With+Knowledge" alt="Typing SVG" /></a>
 </p>
 
 I'm an experienced project manager with PMP and PRINCE2 certifications. Currently, persuing a full-stack developer and content creator to build my version of the digital world one step at a time. I'm a Data Science and Machine Learning enthusiastic, passionate for software development using ReactJS for the frontend and Django or Flask on the backend.
