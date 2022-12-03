@@ -47,14 +47,13 @@ All coding projects are built from the ground up, from planning and designing al
 ### 📊 Stats
 
 ![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao82&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-<br/>
-
+<br />
 #
 
+
+
 <details>
- <summary><h3>👨‍💻 Martins's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Martins's Professional Journey</h3></summary>
    I started my career as a Civil Engineer and finding myself with great skills on data and leadership. After 10 years of construction management, I specialised in Project Management where I had the opportunity to be envolved in IT projects on the Financial industry. I
 found my passion for data and Computer Science, and I started my coding journey with a passion to learn everything I could about programming. I started with python for data science projects and then web development framworks such Flask nad Django.
 I eventually ended up building full-stack web applications with data and machine learning features to solve real world problems in developing countries.
