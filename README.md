@@ -45,10 +45,11 @@ All coding projects are built from the ground up, from planning and designing al
 
 ### 📊 Stats
 
-![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao82&show_icons=true&theme=gruvbox)
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao82&show_icons=true&theme=dark&locale=en&layout=compact" alt="joao82" />
-<br />
+<div>
+  <a href="https://github.com/joao82" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao82&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao82&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> 
+</div>
 #
 
 
