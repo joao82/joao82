@@ -1,5 +1,5 @@
 <h1 align="center">:rocket: João Martins</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Project+Manager+|+Software+Engineer+|+Data+Science+@RBTech+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Project+Manager+|+Data+|+Web+Dev+@RBTech+%3A)" /> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joao82&label=Profile%20views&color=0e75b6&style=flat" alt="joao82" /> </p>
 
