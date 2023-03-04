@@ -13,7 +13,6 @@ All coding projects are built from the ground up, from planning and designing al
    <a href="https://www.instagram.com/jpcmartins"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
   <img align="left" alt="HTML" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,15 +30,13 @@ All coding projects are built from the ground up, from planning and designing al
   <img align="left" alt="Kubernets" width="30px" style="padding:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="left" alt="Git" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
--
+<br/>
 
 <h3 align="left"> Databases:</h3>
 <div align="left">
   <img align="left" alt="MongoDB" width="30px" style="padding:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
 </div>
 <br/>
 
