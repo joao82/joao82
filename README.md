@@ -33,9 +33,8 @@ All coding projects are built from the ground up, from planning and designing al
 </div>
 <br/>
 
-
+<h3 align="left"> Databases:</h3>
 <div align="left">
-  <h3 align="left"> Databases:</h3>
   <img align="left" alt="MongoDB" width="30px" style="padding:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
