@@ -1,5 +1,7 @@
 <h1 align="center">:rocket: João Martins</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Software+Engineer" /></h3>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Software%20Engineer;Experience%20Project%20Manager;Data%20Science%20Passionate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0357F7&vCenter=true&pause=1000&size=22" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joao82&label=Profile%20views&color=0e75b6&style=flat" alt="joao82" /> </p>
 
@@ -13,7 +15,7 @@ All coding projects are built from the ground up, from planning and designing al
    <a href="https://www.instagram.com/jpcmartins"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-<h3 align="left">Web Tech Stack :</h3>
+<h3 align="left">Web Tech Stack:</h3>
 <div align="left">
 <img width="30px" style="padding:10px;" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img width="30px" style="padding:10px;" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> 
@@ -23,7 +25,7 @@ All coding projects are built from the ground up, from planning and designing al
 <img width="30px" style="padding:10px;" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </div>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages:</h3>
 <div align="left">
   <img width="30px" style="padding:10px;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img width="30px" style="padding:10px;" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
@@ -32,11 +34,11 @@ All coding projects are built from the ground up, from planning and designing al
   <img width="30px" style="padding:10px;" alt="Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
 </div>
 
-<h3 align="left"> Databases:</h3>
+<h3 align="left">Databases :</h3>
 <div align="left">
-  <img align="left" alt="MongoDB" width="30px" style="padding:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="MongoDB" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="left" alt="MySQL" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="30px" style="padding:10px;" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img width="30px" style="padding:10px;" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img width="30px" style="padding:10px;" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 <br/>
 
